@@ -4,8 +4,6 @@
 
 **Based on:** [Auth0 Docs — Introduction to Auth0](https://auth0.com/docs/get-started/identity-fundamentals/introduction-to-auth0)
 
-> Independently written study notes grounded in the linked Auth0 section. Diagrams, examples and interview tips are original explanatory additions rather than quotations. This chapter belongs to the Auth0 **Identity Fundamentals** documentation group.
-
 ## Contents
 
 - [What this section teaches](#what-this-section-teaches)
