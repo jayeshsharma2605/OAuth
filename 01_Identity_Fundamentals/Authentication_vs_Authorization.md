@@ -4,8 +4,6 @@
 
 **Based on:** [Auth0 Docs — Authentication vs Authorization](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization)
 
-> Independently written study notes grounded in the linked Auth0 section. Diagrams, examples and interview tips are original explanatory additions rather than quotations. This chapter belongs to the Auth0 **Identity Fundamentals** documentation group.
-
 ## Contents
 
 - [What this section teaches](#what-this-section-teaches)
